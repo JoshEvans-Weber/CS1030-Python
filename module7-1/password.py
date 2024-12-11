@@ -1,5 +1,5 @@
 
-debug_value = 1
+debug_value = -1
 
 def debug():
     global first, last, w_num
