@@ -80,3 +80,62 @@ Are you a member of the Treehouse Museum
 Enter Choice: 1
 Your cost would be $275
 ```
+
+Demonstrate what you have learned by coding two of the programming challenges below.  Submit the URL of your repl.it.
+
+Name Pyramid
+
+Create a name pyramid.  Allow the user to enter their name.  The program will then print 1 character on the first line, and two characters on the second line, until the entire name has been printed.
+
+```
+Enter your name: Stephanie
+S
+St
+Ste
+Step
+Steph
+Stepha
+Stephan
+Stephani
+Stephanie
+```
+
+Guidance Counselor
+
+Bonneville High School has four guidance counselors to help meet the needs of the students.  A student's counselor is based on the first letter of their last name as shown in the table below.  Write the school a program that will allow the student to enter their last name, and the program will report their counselor.
+
+```
+Counselor      |Letters
+Marci Thomas   |A-D
+Robert Hancock |E-K
+John Caine     |L-R
+Lacy Peterson  |S-Z
+```
+
+Sample Run
+
+```
+Boneville High School Counselor
+Enter your last name: Larson
+Your counselor is John Caine
+```
+
+Mini Golf
+
+Write a program to keep score of your hits in a mini-golf game.  The program allows you to enter the number of holes in the course and ask how many hits for each hole.  The program will report how many total hits you had.
+
+Sample Run
+
+```
+How many holes did you play: 9
+Enter hits for hole 1: 5
+Enter hits for hole 2: 6
+Enter hits for hole 3: 2
+Enter hits for hole 4: 1
+Enter hits for hole 5: 5
+Enter hits for hole 6: 4
+Enter hits for hole 7: 2
+Enter hits for hole 8: 3
+Enter hits for hole 9: 4
+Total Hits: 32
+```
