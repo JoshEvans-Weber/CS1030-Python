@@ -1,10 +1,3 @@
-# Welcome Message
-# Ask which party package
-# Receive input
-# Ask for membership
-# Output Cost
-
-
 cost = 0
 pack_choice = 0
 membership = 0
